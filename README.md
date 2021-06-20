@@ -13,7 +13,7 @@ Kaggle木薯叶疾病分类 Bronze
 <img src="https://github.com/ielym/Kaggle-Cassava-Leaf-Disease-Classification/blob/main/tools/datas/1.jpg" height="200" />
 
 ## 比赛流程和任务
-比赛分为ab榜，参加比赛的时候较晚，打了两周就面临寒假离校了，在家期间由于没有计算资源也就一直耽搁下来了，最终只获得了铜牌。
+比赛分为ab榜，参加比赛的时间比较晚，打了两周就面临寒假离校，并且在家期间由于没有计算资源也就耽搁下来了，最终只获得了铜牌。
 
 但这场比赛是我第一次参加Kaggle竞赛，对Kaggle的比赛流程有了大概的了解，所以还是有必要记录一下的。
 
